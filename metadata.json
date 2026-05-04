@@ -1,0 +1,9 @@
+{
+  "name": "Pro AI Agent",
+  "description": "An advanced AI chat agent with voice-to-text, camera access, and a modern glassmorphism interface powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
