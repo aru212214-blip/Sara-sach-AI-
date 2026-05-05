@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2f1ffab4-f315-4953-9833-5fefeab9429b
+View your app in  Sara Studio: https://sara.studio/apps/2f1ffab4-f315-4953-9833-5fefeab9429b
 
 ## Run Locally
 
